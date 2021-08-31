@@ -1,3 +1,7 @@
+Individual project 
+Score: 94/100
+Mean: 87.6/100
+
 # Project 1
 
 See the course website for Project 1's requirements: [Project 1](https://github.coecis.cornell.edu/info2300-sp2019/info2300-sp2019-website/blob/master/assignments/project-1/project-1.md) ([PDF](https://github.coecis.cornell.edu/info2300-sp2019/info2300-sp2019-website/blob/master/assignments/project-1/project-1.pdf)).
